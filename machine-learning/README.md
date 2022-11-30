@@ -1,5 +1,6 @@
 # Qiita - machine learning
-https://qiita.com/seiji1997/items/3e1f5475319df4996b16
+Qiita記事<br>
+- https://qiita.com/seiji1997/items/3e1f5475319df4996b16
 
 以下の内容について、そのモデルの概念から確認し、数式・実装（私のGithubのリンクを貼っています）を含めてまとめていきます。
 - [線形回帰モデル](%E7%B7%9A%E5%BD%A2%E5%9B%9E%E5%B8%B0%E3%83%A2%E3%83%87%E3%83%AB.ipynb)
